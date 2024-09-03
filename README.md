@@ -75,7 +75,7 @@ Use this prompt (bash) in the Command Prompt to run app3.py: streamlit run app3.
 
 ### 9. Interactive Dashboard Link
 
-    Provide a link to the deployed Streamlit app (e.g., on Streamlit Sharing or another hosting service).
+Here is a link to deployed Streamlit app: https://global-health-metrics-dashboard-d5eeze5wyomofqsmoldyht.streamlit.app/
 
 ### 10. Results and Insights
 
